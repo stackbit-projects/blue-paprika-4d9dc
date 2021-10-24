@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Neo's Blog
-  description: The preview of the Fjord theme
+  description: cookin
   extra:
     - name: 'og:type'
       value: website
