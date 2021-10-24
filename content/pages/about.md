@@ -32,10 +32,6 @@ layout: page
 ---
 **Neo**[ ](https://en.wikipedia.org/wiki/Stockholm)is a computer science student. He loves learn new things and create. his main hobbies are drawing, singing( he sings badly af but nevertheless he loves it), cooking and programming.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Neo creates this blog with the intention of improve his english and he has the goal of post almost one time weekly.
 
 *Thank You for reading!*
