@@ -32,6 +32,6 @@ layout: page
 ---
 **Neo**[ ](https://en.wikipedia.org/wiki/Stockholm)is a computer science student. He loves learn new things and create. his main hobbies are drawing, singing( he sings badly af but nevertheless he loves it), cooking and programming.
 
-Neo creates this blog with the intention of improve his english and he has the goal of post almost one time weekly.
+**Neo** creates this blog with the intention of improve his english and he has the goal of post at least  one time weekly.
 
 *Thank You for reading!*
