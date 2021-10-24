@@ -59,13 +59,6 @@
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://www.behance.net/neolink557/",
-                "style": "icon",
-                "icon_class": "vimeo",
-                "new_window": true
             }
         ]
     },
